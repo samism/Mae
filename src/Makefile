@@ -1,5 +1,5 @@
 CC=g++
-SOURCES=Mae.cpp
+SOURCES=Mae.c
 EXECUTABLE=Mae
 
 all: $(SOURCES) $(EXECUTABLE)

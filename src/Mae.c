@@ -2,10 +2,11 @@
  * Mae.cpp
  * Copyright (C) 2013 Lingubender
  */
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main(int argc, char* argv[]) {
-    cout << "Hello world!" << endl;
+    for (int i = 0; i < argc; i++) {
+    	printf("%s\n", argv[i]);
+    }
     return 0;
 }
