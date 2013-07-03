@@ -11,7 +11,7 @@ Class/object members, struct fields: `_lower_case_with_prefixed_underscore`
 
 Indentation & Formatting
 ----------------------
-One True Brace Style.
+Original K&R brace style.
 
 Single tab per indentation level; spaces not allowed.
 
