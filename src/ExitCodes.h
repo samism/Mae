@@ -5,7 +5,8 @@
 #ifndef EXITCODES_H
 #define EXITCODES_H
 
-enum EXITCODE {
+enum EXITCODE
+{
 	SUCCESS,
 	INVALIDARGS
 };
